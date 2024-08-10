@@ -2,12 +2,7 @@
 require('dbconn.php');
 ?>
 <?php
-
-
-
 include 'private/validity1.php';
-
-
 ?>
 
 <!DOCTYPE html>
